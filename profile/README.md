@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+We're perFECt dark and we're gonna build an application together 👍
 <!--
 
 **Here are some ideas to get you started:**
